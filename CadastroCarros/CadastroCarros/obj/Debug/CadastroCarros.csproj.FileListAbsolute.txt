@@ -1,0 +1,11 @@
+C:\Users\Douglas\source\repos\CadastroCarros\CadastroCarros\bin\Debug\CadastroCarros.exe.config
+C:\Users\Douglas\source\repos\CadastroCarros\CadastroCarros\bin\Debug\CadastroCarros.exe
+C:\Users\Douglas\source\repos\CadastroCarros\CadastroCarros\bin\Debug\CadastroCarros.pdb
+C:\Users\Douglas\source\repos\CadastroCarros\CadastroCarros\obj\Debug\CadastroCarros.addcarro.resources
+C:\Users\Douglas\source\repos\CadastroCarros\CadastroCarros\obj\Debug\CadastroCarros.Properties.Resources.resources
+C:\Users\Douglas\source\repos\CadastroCarros\CadastroCarros\obj\Debug\CadastroCarros.csproj.GenerateResource.cache
+C:\Users\Douglas\source\repos\CadastroCarros\CadastroCarros\obj\Debug\CadastroCarros.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\source\repos\CadastroCarros\CadastroCarros\obj\Debug\CadastroCarros.exe
+C:\Users\Douglas\source\repos\CadastroCarros\CadastroCarros\obj\Debug\CadastroCarros.pdb
+C:\Users\Douglas\source\repos\CadastroCarros\CadastroCarros\obj\Debug\CadastroCarros.Menu.resources
+C:\Users\Douglas\source\repos\CadastroCarros\CadastroCarros\obj\Debug\CadastroCarros.csproj.AssemblyReference.cache
